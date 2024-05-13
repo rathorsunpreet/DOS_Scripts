@@ -9,7 +9,7 @@ Here is the list of batch scripts and a short description of what they do.
 
 | Script Name | Description |
 | ----------- | ----------- |
-| gotocode.bat | Jumps to C:\Users\<username>\Documents\Code |
+| gotocode.bat | Jumps to C:\Users\\<username>\Documents\Code |
 | listings.bat | Executes the command "dir /o /b:gn" and saves the output in a file|
 | makeprompts.bat | Creates a user specified amount of command prompts |
 
