@@ -12,6 +12,7 @@ Here is the list of batch scripts and a short description of what they do.
 | gotocode.bat | Jumps to C:\Users\\"username"\Documents\Code |
 | listings.bat | Executes the command "dir /o /b:gn" and saves the output in a file|
 | makeprompts.bat | Creates a user specified amount of command prompts |
+| editor.bat | Creates a new file and opens it up for editing |
 
 ## Usage
 Restart the *Command Prompt* to access the new scripts if you get an error on the lines of "Command not found". Otherwise, just type in the script file name.
